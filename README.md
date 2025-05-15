@@ -8,7 +8,7 @@
 
 ## 🎮 Features
 
-- 🎯 Instant-play HTML5 games
+- 🎯 Instant-play [HTML5 games]([url](https://gamh5.com))
 - 📱 Mobile and desktop compatibility
 - 🧩 Multiple genres including puzzle, action, arcade, and more
 - 🧼 Clean UI with minimal ads and no user tracking
@@ -24,13 +24,14 @@ GamH5 is great for:
 
 ## 🔗 Related Links
 
-- 💡 [GamH5: A Lightweight HTML5 Game Portal – Dev.to article](https://dev.to/your-link-here) *(if you publish)*
+- 💡 [GamH5: A Lightweight HTML5 Game Portal – Dev.to article]([https://dev.to/gamh5games) *(if you publish)*
 - 📰 [What is HTML5 Gaming? – Wikipedia](https://en.wikipedia.org/wiki/HTML5_Games) *(background)*
 
 ## 📬 Contact
 
 For feedback or collaboration, please reach out via:
-- ✉️ Email: hello@gamh5.com
+- ✉️ Email: ryzde876@gmail.com
+
 - 🌐 Website: [https://gamh5.com](https://gamh5.com)
 
 ---
