@@ -24,7 +24,7 @@ GamH5 is great for:
 
 ## 🔗 Related Links
 
-- 💡 [[GamH5: A Lightweight HTML5 Game Portal – Dev.to article]([[url](https://dev.to/gamh5games)] *(if you publish)*
+- 💡 [[[GamH5: A Lightweight HTML5 Game Portal – Dev.to article](https://dev.to/gamh5games)] *(if you publish)*
 - 📰 [What is HTML5 Gaming? – Wikipedia](https://en.wikipedia.org/wiki/HTML5_Games) *(background)*
 
 ## 📬 Contact
